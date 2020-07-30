@@ -1,5 +1,6 @@
 # Random words generator
 
-Application can generate random noun(s) from the base in three languages. You can also random multiple words and see history.
+App generates random words in English, Netherlands and polish as well. You can also, see the history and generate multiple quantities words at one time!
+<img src="https://i.imgur.com/2JklVPh.png" alt=""/>
 
 &copy;2018 Hryszko Simon!
